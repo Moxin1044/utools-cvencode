@@ -1,13 +1,6 @@
 # 关于
-<<<<<<< HEAD
-<<<<<<< HEAD
-<center><img src="https://gitee.com/Moxin1044/utools-cvencode/raw/master/logo.png" style="zoom:10%;" /></center>
-=======
+
 <center><img src="./img/logo.png" style="zoom:10%;" /></center>
->>>>>>> 4700055 (fix readme)
-=======
-<center><img src="./img/logo.png" style="zoom:10%;" /></center>
->>>>>>> cbdc3eb1f68c9a877d3047d343d1143d49b034a9
 
 这是一个使用Utools API和JavaScript开发的一个“社会主义核心价值观编码”的编解码工具，目前已申请上架Utools商店。
 
