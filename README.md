@@ -35,3 +35,14 @@
 # 发行版
 
 可以前往https://github.com/Moxin1044/utools-cvencode/releases进行查看。
+
+# 安装
+
+## upx文件安装
+
+直接将upx文件拖入Utools搜索窗口，选择安装插件，进行安装。
+
+![](./img/image-20230224204328260.png)
+
+## Utools官方
+目前应用已提交Utools官方审核，你可以等到审核之后再安装使用哦！
