@@ -1,5 +1,5 @@
 # 关于
-<center><img src="./../img/README/logo.png" style="zoom:10%;" /></center>
+<center><img src="https://github.com/Moxin1044/utools-cvencode/blob/master/logo.png" style="zoom:10%;" /></center>
 
 这是一个使用Utools API和JavaScript开发的一个“社会主义核心价值观编码”的编解码工具，目前已申请上架Utools商店。
 
