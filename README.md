@@ -2,7 +2,7 @@
 
 <center><img src="./img/logo.png" style="zoom:10%;" /></center>
 
-这是一个使用Utools API和JavaScript开发的一个“社会主义核心价值观编码”的编解码工具，目前已申请上架Utools商店。
+这是一个使用Utools API和JavaScript开发的一个“社会主义核心价值观编码”的编解码工具，目前已上架Utools商店。
 
 # 使用说明
 
@@ -45,4 +45,4 @@
 ![](./img/image-20230224204328260.png)
 
 ## Utools官方
-目前应用已提交Utools官方审核，你可以等到审核之后再安装使用哦！
+目前工具已上线Utools插件商店哦！大家可以尽情使用啦！
